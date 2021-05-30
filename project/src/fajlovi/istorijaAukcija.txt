@@ -1,0 +1,6 @@
+Najnoviji automobil,1,nemanja123,12,3.5,true,2012,false
+Najnoviji automobil,1,mirko123,22,4.0,true,2007,false
+Najnoviji automobil,1,jovana123,14,3.4,true,2009,false
+Najnoviji automobil,1,marina123,30,4.5,false,2014,true
+Najbrzi vozac,2,nemanja123,12,3.5,true,2012,false
+Najbrzi vozac,2,stefan123,10,4.0,false,2012,true

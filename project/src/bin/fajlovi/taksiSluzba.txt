@@ -1,0 +1,6 @@
+1,143432342,Pink,Vase Stajica 12,150,30
+2,240993742,Delta,Radnicka 11,120,50
+3,565248292,Grand,Bulevar oslobodjenja 20,130,100
+4,576854649,Lux,Sime Matavulja 15,100,30
+5,425663947,MBR,Trg Slobode,150,150
+6,163958287,SOS,Dunavska 12,120,50

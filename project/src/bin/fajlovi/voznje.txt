@@ -1,0 +1,5 @@
+1,2019-12-13 12:35,Nenada Mitrova 12,Sime Matavulja 15,petar123,nemanja123,10,30,KREIRANA
+2,2018-08-15 10:10,Devet Jugovica 44,Josifa Marinkovica 26,milos123,mirko123,3,5,DODELJENA
+3,2019-11-10 08:50,Nikole Tesle 12,Primorska 31,stefan123,jovana123,12,25,PRIHVACENA
+4,2019-03-05 04:40,Futoska pijaca 13,Dimitrija Davidovica 11,jovan123,marina123,4,10,ZAVRSENA
+5,2019-01-07 12:00,Valentina Vodnika 40,Strazilovska 13,aleksandar123,stefan123,5,18,ODBIJENA

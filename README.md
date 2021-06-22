@@ -1,3 +1,3 @@
 # Java-Swing-App
 
-This is a more advanced app about taxi service.
+This is a more advanced java app about taxi service.
